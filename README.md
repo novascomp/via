@@ -8,6 +8,7 @@ The created API will communicate using PKCS11 (Cryptoki) library with HSM Simula
 
 A logged in user can generate test dataframes and later download it in both forms (plain text/encrypted)
 
-The final application will be available on this url https://via.novascomp.synology.me/
+Timetable is available during term on this page https://via.novascomp.synology.me/
+The final application will be available there also https://via.novascomp.synology.me/
 
 #### I am solving this topic (data pseudonymization) in my diploma thesis
